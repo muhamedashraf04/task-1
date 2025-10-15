@@ -1,5 +1,11 @@
 This App is for testing my GitHub Account and this will be my first line of details regarding this matter.
 
+My App will include:
+1-backEnd (C#)
+2-FrontEnd (React)
+3-DataBase (SQL)
+
+
 Nile Universtiy 
 Software Engineering
 Mohamed Ashraf
